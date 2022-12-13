@@ -1,0 +1,58 @@
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+    font-family: monospace;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: cursive;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;
+}
+
+.speed_disk_image{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.volume_disk_image{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 23px;
+    font-family: Jokerman;
+    margin: 15px;
+}
+
+#volume{
+    font-size: 23px;
+    font-family: Jokerman;
+    margin: 15px;
+}
+
+.play_button{
+    width: 140px;
+    margin: 5px;
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
